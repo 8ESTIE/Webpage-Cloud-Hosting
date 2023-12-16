@@ -1,8 +1,6 @@
 # FrestyHost
+Fictitious front-end website with more than 25 components and 5 well-designed animations that adapt to the screen size
 # Watch it: https://frestyhost.works
-##### A fictitious front-end landing page for cloud hosting.
------------------------------------------------------------------
-## Has 25 Components
 -----------------------------------------------------------------
 ## Technologies:
 #### HTML, CSS, JS
