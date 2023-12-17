@@ -1,6 +1,6 @@
 # FrestyHost
 Fictitious front-end website with more than 25 components and 5 well-designed animations that adapt to the screen size
-# Watch it: https://frestyhost.works
+## Watch it: https://frestyhost.works
 -----------------------------------------------------------------
 ## Main Technologies:
 #### HTML, CSS, JS
